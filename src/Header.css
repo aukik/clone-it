@@ -1,12 +1,21 @@
 .header_logo {
-  object-fit: contain;
   height: 35px;
-  margin: 10px;
-  position: absolute;
-  right: 10px;
+  margin: 7px;
+  padding-bottom: 4px;
+
   /* box-shadow: 2px 2px 1px rgb(226, 223, 223); */
 }
 .header {
-  margin: 10px;
-  background-color: #93b0e7;
+  background-color: #d8dee7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon_button {
+  position: absolute !important;
+  left: 10px !important;
+}
+.forum_button {
+  position: absolute !important;
+  right: 10px !important;
 }
