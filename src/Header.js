@@ -18,7 +18,7 @@ function Header() {
         />
       </div>
 
-      {/* <Button variant='primary'>Primary</Button> */}
+      <Button variant='primary'>Primary</Button>
     </div>
   )
 }
