@@ -1,0 +1,12 @@
+.header_logo {
+  object-fit: contain;
+  height: 35px;
+  margin: 10px;
+  position: absolute;
+  right: 10px;
+  /* box-shadow: 2px 2px 1px rgb(226, 223, 223); */
+}
+.header {
+  margin: 10px;
+  background-color: #93b0e7;
+}
