@@ -17,8 +17,6 @@ function Header() {
           src='https://wallpaperaccess.com/full/322057.png'
         />
       </div>
-
-      <Button variant='primary'>Primary</Button>
     </div>
   )
 }
