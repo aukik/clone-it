@@ -1,0 +1,32 @@
+.cards {
+  display: flex;
+  margin-top: 8vw;
+  justify-content: center;
+}
+.cards__cardContainer {
+  background-color: white;
+
+  width: 900px;
+
+  background-size: cover;
+}
+.card {
+  width: 800px;
+  height: 500px;
+
+  justify-content: end;
+  background-size: cover;
+}
+
+.card h3 {
+  justify-content: center;
+
+  display: flex;
+  margin: 10px;
+  color: rgb(255, 255, 255);
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000,
+    -1px -1px 0 #000;
+}
+.swipe {
+  position: absolute;
+}
